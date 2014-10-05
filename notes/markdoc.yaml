@@ -1,1 +1,5 @@
-{}
+wiki-name: "Project Wiki"
+
+markdown:
+  extensions:
+    - codehilite # the important bit
