@@ -36,3 +36,9 @@ nosetests.xml
 
 # Local pyenv
 .pyenv
+
+# Node.js
+node_modules
+
+# Ruby
+Gemfile.lock

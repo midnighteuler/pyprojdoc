@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "0.0.1",
+  "description": "my project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/midnighteuler/project"
+  },
+  "author": "Michael L. Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midnighteuler/project/issues"
+  },
+  "homepage": "https://github.com/midnighteuler/project",
+  "dependencies": {
+    "grunt-cli": "~0.1.13",
+    "cabin": "~0.3.6"
+  }
+
+}
