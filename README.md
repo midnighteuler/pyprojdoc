@@ -5,6 +5,12 @@ Documented Project
 
 You need to be able to build python, have rvm installed, have node.js installed.
 
+On ubuntu you can accomplish the first requirement with:
+
+  sudo apt-get install build-essential
+
+  sudo apt-get build-dep python2.7
+
 ### Run: "source setup_pyenv.sh"
 
 This will set up a local install of python and the packages in requirements.txt
